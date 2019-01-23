@@ -22,5 +22,6 @@ public class bethy {
       catch (IOException | NumberFormatException e)
       {
       }
-   } 
+   }
+   .ÑL LK{ ÑLKM ÑKJ NJÑKML,OJINO
 }
